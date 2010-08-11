@@ -1,0 +1,8 @@
+; $Id$
+name = Aabenraa
+description = Dynamo subtheme for Aabenraa Bibliotekerne
+screenshot  = screenshot.png
+core = 6.x
+engine = phptemplate
+base theme = dynamo
+
